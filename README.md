@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Curriculum de María Angélica
+
+### Experiencia Profesional
+
+- 2021 al 2022 - Recolectora de flores
+- 2019 al 2020 - Rescatista de animales
+- 
 
 You can use the [editor on GitHub](https://github.com/MariangelicaCarvallo/proyectopersonal/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,7 +13,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
